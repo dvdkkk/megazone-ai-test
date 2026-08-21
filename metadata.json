@@ -1,0 +1,8 @@
+{
+  "name": "Remix 메가존클라우드 AI-Native 부트캠프(김진철)222",
+  "description": "메가존클라우드 AI-Native 부트캠프 훈련생 모집 페이지",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
